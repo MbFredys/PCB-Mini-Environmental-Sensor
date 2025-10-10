@@ -1,14 +1,14 @@
 # PCB-Mini-Environmental-Sensor
 This is a compact environmental monitoring PCB design that enables precise tracking of multiple atmospheric parameters with the following features:
 
-🌡️ Monitors temperature, humidity, and atmospheric pressure using BME280 sensor
-💨 Measures air quality and CO2 equivalent with Sensirion SPG40 sensor
-📶 WiFi and Bluetooth connectivity via ESP32-C3-VROOM-02 microcontroller
-🔋 Battery-powered operation with 3.7V Li-ion battery and USB-C charging
-⚡ Efficient power management using TPS62203 step-down converter
-🔄 Automatic data logging with cloud connectivity capabilities
-💤 Ultra-low power consumption with deep sleep mode (10μA)
-🌧️ Weather-resistant design suitable for indoor and outdoor use
+1. 🌡️ Monitors temperature, humidity, and atmospheric pressure using BME280 sensor
+2. 💨 Measures air quality and CO2 equivalent with Sensirion SPG40 sensor
+3. 📶 WiFi and Bluetooth connectivity via ESP32-C3-VROOM-02 microcontroller
+4. 🔋 Battery-powered operation with 3.7V Li-ion battery and USB-C charging
+5. ⚡ Efficient power management using TPS62203 step-down converter
+6. 🔄 Automatic data logging with cloud connectivity capabilities
+7. 💤 Ultra-low power consumption with deep sleep mode (10μA)
+8. 🌧️ Weather-resistant design suitable for indoor and outdoor use
 
 # Usage
 To use the environmental sensor node, follow these steps:
@@ -58,12 +58,12 @@ If you would like to contribute to the Environmental Sensor Node project, please
   9. Submit a pull request with detailed description
 
 # Areas for Contribution
-🔋 Power management algorithms
-📡 Wireless protocol optimizations
-🌡️ Sensor calibration procedures
-🏠 Enclosure designs for different environments
-📊 Data visualization interfaces
-🔧 Manufacturing improvements
+1. 🔋 Power management algorithms
+2. 📡 Wireless protocol optimizations
+3. 🌡️ Sensor calibration procedures
+4. 🏠 Enclosure designs for different environments
+5. 📊 Data visualization interfaces
+6. 🔧 Manufacturing improvements
 
 # License
 This Environmental Sensor Node PCB design is licensed under the MIT License. See the [MIT License ↗](https://opensource.org/license/mit/) file for more information.
