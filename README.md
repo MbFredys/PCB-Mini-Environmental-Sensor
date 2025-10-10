@@ -7,7 +7,7 @@ This is a compact environmental monitoring PCB design that enables precise track
 4. 🔋 Battery-powered operation with 3.7V Li-ion battery and USB-C charging
 5. ⚡ Efficient power management using TPS62203 step-down converter
 6. 🔄 Automatic data logging with cloud connectivity capabilities
-7. 💤 Ultra-low power consumption with deep sleep mode (10μA)
+7. 💤 Ultra-low power consumption with deep sleep mode
 8. 🌧️ Weather-resistant design suitable for indoor and outdoor use
 
 # Usage
