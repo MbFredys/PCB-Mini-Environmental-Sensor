@@ -1,4 +1,6 @@
 # PCB-Mini-Environmental-Sensor
+[![License: CERN-OHL-W-2.0](https://img.shields.io/badge/license-CERN--OHL--W%202.0-blue.svg)](https://ohwr.org/projects/cern-ohl/wikis/CERN-OHL-version-2)
+
 This is a compact environmental monitoring PCB design that enables precise tracking of multiple atmospheric parameters with the following features:
 
 1. 🌡️ Monitors temperature, humidity, and atmospheric pressure using BME280 sensor
@@ -66,4 +68,5 @@ If you would like to contribute to the Environmental Sensor Node project, please
 6. 🔧 Manufacturing improvements
 
 # License
-This Environmental Sensor Node PCB design is licensed under the MIT License. See the [MIT License ↗](https://opensource.org/license/mit/) file for more information.
+This project is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W-2.0).
+See the [CERN-OHL-W-2.0 ↗](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt) file for more information.
